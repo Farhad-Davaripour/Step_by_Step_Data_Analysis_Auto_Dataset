@@ -5,7 +5,7 @@
 
 ### Overview
 * * *
-This repository presents an step by step approach to manipulate the missing values in a data frame. The following steps are carried out including
+This repository presents a step by step approach to manipulate the missing values in a data frame. The following steps are carried out including
 * replacing the missing values (? in here) with np.nan
 * finding the columns which includes missing values and counting the number of cells with missing values
 * replacing the missing values with the average of the values in the column  
