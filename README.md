@@ -8,8 +8,9 @@
 This repository presents an step by step approach to manipulate the missing values in a data frame. The following steps are carried out including
 * replacing the missing values (? in here) with np.nan
 * finding the columns which includes missing values and counting the number of cells with missing values
-* replacing the missing values with the average of the values in the column
-The following steps are also taken in order to prepare the data for data analysis:
+* replacing the missing values with the average of the values in the column  
+
+The following steps are also carried out in order to prepare the data for data analysis:
 * normalizing the values based on the (value - average(value))/standard_deviation
 * binning the columns into categorical groups (e.g., low, medium, and high)
 * Turning categorical variables into quantitative variables (e.g., 0 and 1)
