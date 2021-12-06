@@ -5,7 +5,7 @@
 
 ### Overview
 * * *
-This repository presents a step by step approach for data wrangling, manipulating missing values, and descriptive statistical analysis. The following steps are carried out to address the missing values in the dataset, including:
+This repository presents a step by step approach for data wrangling, and descriptive statistical analysis. The following steps are carried out to address the missing values in the dataset, including:
 * replacing the missing values (? in here) with np.nan
 * finding the columns which include missing values and counting the number of elements with missing values
 * replacing the missing values with the average of the values in the column  
