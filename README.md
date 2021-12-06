@@ -19,7 +19,7 @@ Finally, statistical descriptive analyses are performed using:
 * Chi-Square and analysis of variance (ANOVA) methods for columns with object data type
 * Pearsonr method for columns with numerical data type
   
-✓ Link to the notebook: [Link](https://github.com/Farhad-Davaripour/Data_Preparation_Missing_Values/blob/main/Data_Analysis_With_Python.ipynb)   
+✓ Link to the notebook: [Link](https://github.com/Farhad-Davaripour/Descriptive_Statistical_Analysis_Auto_Dataset/blob/main/Code_Python.ipynb)   
 
 The dataset includes auto info downloaded from IBM cloud.
 
