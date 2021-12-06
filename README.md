@@ -5,7 +5,7 @@
 
 ### Overview
 * * *
-This repository presents a step by step approach to manipulate the missing values in a data frame. The following steps are carried out including
+This repository presents a step by step approach for data wrangling, manipulating missing values, and descriptive statistical analysis. The following steps are carried out to address the missing values in the dataset, including:
 * replacing the missing values (? in here) with np.nan
 * finding the columns which include missing values and counting the number of elements with missing values
 * replacing the missing values with the average of the values in the column  
@@ -14,6 +14,10 @@ The following steps are also taken in order to prepare the data for data analysi
 * normalizing the values based on the (value - average(column))/standard_deviation(column)
 * binning the columns into categorical groups (e.g., low, medium, and high)
 * Turning categorical variables into quantitative variables (e.g., 0 and 1)
+
+Finally, statistical descriptive analyses are performed using:
+* Chi-Square and analysis of variance (ANOVA) methods for columns with object data type
+* Pearsonr method for columns with numerical data type
   
 ✓ Link to the notebook: [Link](https://github.com/Farhad-Davaripour/Data_Preparation_Missing_Values/blob/main/Data_Analysis_With_Python.ipynb)   
 
