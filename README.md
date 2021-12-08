@@ -44,6 +44,6 @@ In this study:
 ![image](MyImage-GitHub.jpg)
 
 
-- Farhad Davaripour is a finite element specialist with 3 years of experience working in research and development roles. He has a knack for problem-solving and (recently) found his passion in data science (He is in training).
+- Farhad Davaripour is a numerical scientist with 3 years of experience working in research and development roles. He has a knack for problem-solving and has a passion in data science (He is in training).
 - Currently He is taking the data science fundamental courses as a part of IBM Data Science Professional Certificate. 
 - Connect with Farhad on [LinkedIn](https://www.linkedin.com/in/farhad-davaripour/)
