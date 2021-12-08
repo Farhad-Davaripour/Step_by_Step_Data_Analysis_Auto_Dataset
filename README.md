@@ -27,7 +27,7 @@ This repository presents a step by step approach for data wrangling, descriptive
 * 1-dimensional polynomial regression model
 * Multi-dimensional polynomial regression model
 
-5) model evaluation and decision making is carried out using the following statistical methods:
+5) model evaluation and decision making are carried out using the following statistical methods:
 * Mean Square Error (MSE)
 * R-Square
   
