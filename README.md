@@ -5,7 +5,13 @@
 
 ### Overview
 * * *
-This repository presents a step by step approach for data wrangling, descriptive statistical analysis, predictive analysis, model development, model evaluation, and decision making. This project is a part of [Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python?) course offered by [Coursera.org](https://www.coursera.org/). In this study:
+This repository presents a step by step approach for data wrangling, descriptive statistical analysis, predictive analysis, model development, model evaluation, and decision making. This project is a part of [Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python?) course offered by [Coursera.org](https://www.coursera.org/). The dataset includes auto info provided in the course and could be downloaded from IBM cloud.
+
+✓ Link to the dataset: [Link](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DA0101EN-SkillsNetwork/labs/Data%20files/auto.csv)  
+✓ link for the description of each column of the dataset [Link](https://archive.ics.uci.edu/ml/machine-learning-databases/autos/imports-85.names)  
+✓ Link to the notebook: [Link](https://github.com/Farhad-Davaripour/Descriptive_Statistical_Analysis_Auto_Dataset/blob/main/Code_Python.ipynb)   
+
+In this study:
 
 1) the following steps are carried out to address the missing values in the dataset, including:
 * replacing the missing values (? in here) with np.nan
@@ -27,17 +33,10 @@ This repository presents a step by step approach for data wrangling, descriptive
 * 1-dimensional polynomial regression model
 * Multi-dimensional polynomial regression model
 
-5) model evaluation and decision making are carried out using the following statistical methods:
+5) model evaluation and decision making is carried out using the following statistical methods:
 * Mean Square Error (MSE)
 * R-Square
   
-✓ Link to the notebook: [Link](https://github.com/Farhad-Davaripour/Descriptive_Statistical_Analysis_Auto_Dataset/blob/main/Code_Python.ipynb)   
-
-The dataset includes auto info provided by [Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python?) and could be downloaded from IBM cloud.
-
-✓ Link to the dataset: [Link](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DA0101EN-SkillsNetwork/labs/Data%20files/auto.csv)  
-
-✓ link for the description of each column of the dataset [Link](https://archive.ics.uci.edu/ml/machine-learning-databases/autos/imports-85.names)
 
 
 ## About The Author
