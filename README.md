@@ -8,7 +8,7 @@
 This repository presents a step by step approach for data wrangling, descriptive statistical analysis, predictive analysis, model development, model evaluation, and decision making. This project is a part of [Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python?) course offered by [Coursera.org](https://www.coursera.org/). The dataset includes auto info provided in the course and could be downloaded from IBM cloud.
 
 ✓ Link to the dataset: [Link](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DA0101EN-SkillsNetwork/labs/Data%20files/auto.csv)  
-✓ link for the description of each column of the dataset [Link](https://archive.ics.uci.edu/ml/machine-learning-databases/autos/imports-85.names)  
+✓ link to the description of each column of the dataset [Link](https://archive.ics.uci.edu/ml/machine-learning-databases/autos/imports-85.names)  
 ✓ Link to the notebook: [Link](https://github.com/Farhad-Davaripour/Descriptive_Statistical_Analysis_Auto_Dataset/blob/main/Code_Python.ipynb)   
 
 In this study:
