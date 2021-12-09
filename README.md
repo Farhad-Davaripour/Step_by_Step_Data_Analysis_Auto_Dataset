@@ -27,13 +27,16 @@ In this study:
 * Chi-Square and analysis of variance (ANOVA) methods for columns with object data type
 * Pearsonr method for columns with numerical data type
 
-4) model development is performed using:
+4) In_sample testing:
+* splitting the data into train and test data with test data include 30% of the overall data
+
+5) model development is performed using:
 * Simple linear regression model
 * Multi-linear regression model
 * 1-dimensional polynomial regression model
 * Multi-dimensional polynomial regression model
 
-5) model evaluation and decision making is carried out using the following statistical methods:
+6) model evaluation and decision making is carried out using the following statistical methods:
 * Mean Square Error (MSE)
 * R-Square
   
@@ -44,6 +47,6 @@ In this study:
 ![image](MyImage-GitHub.jpg)
 
 
-- Farhad Davaripour is a numerical scientist with 3 years of experience working in research and development roles. He has a knack for problem-solving and has a passion in data science (He is in training).
+- Farhad Davaripour is a numerical scientist with 3 years of experience working in research and development roles. He has a knack for problem-solving and passion for data science (He is in training).
 - Currently He is taking the data science fundamental courses as a part of IBM Data Science Professional Certificate. 
 - Connect with Farhad on [LinkedIn](https://www.linkedin.com/in/farhad-davaripour/)
