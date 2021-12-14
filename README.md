@@ -35,6 +35,7 @@ In this study:
 * Multi-linear regression model
 * 1-dimensional polynomial regression model
 * Multi-dimensional polynomial regression model
+* Ridge regression model
 
 6) model evaluation and decision making is carried out using the following statistical methods:
 * Mean Square Error (MSE)
