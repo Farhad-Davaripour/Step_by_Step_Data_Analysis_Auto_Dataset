@@ -39,6 +39,7 @@ In this study:
 6) model evaluation and decision making is carried out using the following statistical methods:
 * Mean Square Error (MSE)
 * R-Square
+* Cross validation
   
 
 
