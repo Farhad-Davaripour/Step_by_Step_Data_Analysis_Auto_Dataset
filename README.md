@@ -3,7 +3,7 @@
   <img src="https://cdn.pixabay.com/photo/2016/12/22/13/35/analytics-1925495_1280.png"width="300" height="200" />
 </p>
 
-### Overview
+### Overview 
 * * *
 This repository presents a step by step approach for data wrangling, descriptive statistical analysis, predictive analysis, model development, model evaluation, and decision making. This project is a part of [Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python?) course offered by [Coursera.org](https://www.coursera.org/). The dataset includes auto info provided in the course and could be downloaded from IBM cloud.
 
